@@ -50,7 +50,6 @@
 - Cloud Technologies (Firebase, Vercel, AWS Basics)  
 - DevOps Concepts (CI/CD, GitHub Actions, Docker basics)  
 - System Design & Building Scalable Apps  
-- Tarot Reading 🔮 *(as a personal interest)*  
 
 ---
 
